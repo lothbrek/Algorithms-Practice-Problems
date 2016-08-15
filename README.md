@@ -1,4 +1,4 @@
-<center>#About this repo</center>
+#About this repo
 
 * Algorithms and Practice problems in Python, Ruby, Javascript, and JQuery.
 This repo is for me to practice algorithms and improve my programming skills by practicing problems from problem sites like Project Euler, Hackerrank, and LeetCoder. This is an attempt to consolidate a few of my problem solving repos. If there are any questions or suggestions, please make an issue or e-mail me, and I will try to respond within 24 hours.
